@@ -4,4 +4,4 @@ A simple black jack game where the user plays against the dealer. The program de
 randomized stack of cards to both dealer and player. Object of the game is to be as close to the count
 of 21 as possible, without going over or "busting." Program recognizes Ace card is worth 11 when paired
 with a face card else it is worth 1. Numeric cards reflect their own point worth and face cards represent
-a value of 10. 
+a value of 10. Program has 3 different components to enable it to run: card, deck, and hand. 
